@@ -1,0 +1,8 @@
+{
+"name":"TKSPool【TKS】#6775",
+"ticker":"TKS",
+"discordId":"431974243920642000",
+"pool-list":"TRUE",
+"poolMetaData":"https://raw.githubusercontent.com/Delusionada/TKS/main/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/Delusionada/TKS/main/sjg-validation.json"
+}
